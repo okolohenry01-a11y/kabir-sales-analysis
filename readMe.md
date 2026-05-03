@@ -23,7 +23,7 @@ This makes it very easy to quickly spot:
 •	Where performance is dropping 
 
 
-![Yearly sales report](image/Yearly%20sales%20report%20.png)
+![Yearly sales report](image/Yearly%20sales%20report%20.png) 
 
 ![Sum of sales](image/Sum%20of%20sales%20.png)
 
