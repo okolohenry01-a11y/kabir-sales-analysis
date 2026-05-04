@@ -22,10 +22,11 @@ This makes it very easy to quickly spot:
 •	Who is closing valuable deals
 •	Where performance is dropping 
 
+![Sales report](Image/Yearly%20sales%20report%20.png)
 
-![Yearly sales report](image/Yearly%20sales%20report%20.png) 
 
-![Sum of sales](image/Sum%20of%20sales%20.png)
+![Sum of sales](<Image/Sum of sales .png>)
+
 
 ## 3. Analysis Summary
 Analysis Summary
@@ -77,14 +78,14 @@ This could mean:
 
 ## Representative Activity (COUNTIF)
 
-![CountIf](image/CountIf%20.png)
+![CountIf](Image/CountIf%20.png)
 
 
 ## Representative Activity (SUMIF)
 
-![SumIf](image/Sumif%20.png)
+![SumIf](Image/Sumif%20.png)
 
-![Quantity sold](image/Quantity%20sold%20.png)
+![Quantity sold](Image/Quantity%20sold%20.png)
 
 ## 4. Business Recommendations
 A. Improve Sales Performance
@@ -135,10 +136,10 @@ Instead:
 
 ## SCREENSHOT OF FULL SPREADSHEET 
 
-![Full Table spreadsheet](image/Full%20table%20.png)
+![Full Table spreadsheet](Image/Full%20table%20.png)
 
 ## Image of Fomulas USED 
-![Fomulas Used](image/All%20formulas%20.png)
+![Fomulas Used](Image/All%20formulas%20.png)
 
 ## 5. Conclusion
 
